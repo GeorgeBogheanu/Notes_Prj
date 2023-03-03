@@ -1,0 +1,15 @@
+/Users/dianageorgianacaldarusa/Projects/Check_Notepad/Check_Notepad/bin/Debug/net7.0/Check_Notepad
+/Users/dianageorgianacaldarusa/Projects/Check_Notepad/Check_Notepad/bin/Debug/net7.0/Check_Notepad.deps.json
+/Users/dianageorgianacaldarusa/Projects/Check_Notepad/Check_Notepad/bin/Debug/net7.0/Check_Notepad.runtimeconfig.json
+/Users/dianageorgianacaldarusa/Projects/Check_Notepad/Check_Notepad/bin/Debug/net7.0/Check_Notepad.dll
+/Users/dianageorgianacaldarusa/Projects/Check_Notepad/Check_Notepad/bin/Debug/net7.0/Check_Notepad.pdb
+/Users/dianageorgianacaldarusa/Projects/Check_Notepad/Check_Notepad/obj/Debug/net7.0/Check_Notepad.csproj.AssemblyReference.cache
+/Users/dianageorgianacaldarusa/Projects/Check_Notepad/Check_Notepad/obj/Debug/net7.0/Check_Notepad.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dianageorgianacaldarusa/Projects/Check_Notepad/Check_Notepad/obj/Debug/net7.0/Check_Notepad.AssemblyInfoInputs.cache
+/Users/dianageorgianacaldarusa/Projects/Check_Notepad/Check_Notepad/obj/Debug/net7.0/Check_Notepad.AssemblyInfo.cs
+/Users/dianageorgianacaldarusa/Projects/Check_Notepad/Check_Notepad/obj/Debug/net7.0/Check_Notepad.csproj.CoreCompileInputs.cache
+/Users/dianageorgianacaldarusa/Projects/Check_Notepad/Check_Notepad/obj/Debug/net7.0/Check_Notepad.dll
+/Users/dianageorgianacaldarusa/Projects/Check_Notepad/Check_Notepad/obj/Debug/net7.0/refint/Check_Notepad.dll
+/Users/dianageorgianacaldarusa/Projects/Check_Notepad/Check_Notepad/obj/Debug/net7.0/Check_Notepad.pdb
+/Users/dianageorgianacaldarusa/Projects/Check_Notepad/Check_Notepad/obj/Debug/net7.0/Check_Notepad.genruntimeconfig.cache
+/Users/dianageorgianacaldarusa/Projects/Check_Notepad/Check_Notepad/obj/Debug/net7.0/ref/Check_Notepad.dll
